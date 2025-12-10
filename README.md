@@ -8,8 +8,8 @@ Ketahanan pangan menjadi isu strategis di Indonesia karena beras merupakan makan
 2. Mengetahui pengaruh tingkat kemiskinan terhadap ketahanan pangan antar provinsi di Indonesia tahun 2024.
 3. Mengetahui pengaruh produksi beras dan tingkat kemiskinan secara simultan terhadap IKP 2024.
 
-# PENJELASAN HASIL FINAL INTEGRASI
-Dataset hasil integrasi merupakan gabungan dari tiga dataset berbeda:
+# Hasil final project
+Dataset hasil integrasi merupakan gabungan dari tiga dataset berbeda, yaitu:
 1. Dataset Produksi Padi dan Beras Menurut Provinsi 2024,
 2. Dataset Jumlah dan Persentase Penduduk Miskin Menurut Provinsi 2024, dan
 3. Dataset Indeks Ketahanan Pangan (IKP).
@@ -28,6 +28,13 @@ Dibawah ini merupakan penjelasan mengenai 5 variabel yang ada pada hasil final p
 | persen_miskin_maret (%) | Persen (%) | BPS – Jumlah & Persentase Penduduk Miskin Menurut Provinsi (SUSENAS Maret 2024) https://www.bps.go.id/en/statistics-table/3/UkVkWGJVZFNWakl6VWxKVFQwWjVWeTlSZDNabVFUMDkjMyMwMDAw/jumlah-dan-persentase-penduduk-miskin-menurut-provinsi.html?year=2024 | Menggambarkan **persentase penduduk miskin pada bulan Maret 2024**. Data diperoleh dari **SUSENAS Maret**. SUSENAS Maret dibangun dari sampel baru, hasil survei Maret yang hanya menggambarkan kondisi kemiskinan bulan tersebut. Pendataan lapangan dilakukan **19 Februari – 9 Maret 2024** di seluruh Indonesia. | 
 | ikp | Skor indeks (0–100) | Badan Pangan Nasional – IKP Provinsi 2024 (https://data.badanpangan.go.id/datasetpublications/2dd/ikp-prov-2024) | IKP adalah indeks komposit yang menggambarkan level ketahanan pangan provinsi. Semakin tinggi skor, semakin kuat ketahanan pangannya. Digunakan sebagai variabel dependen dalam analisis. |
 
+# Pipeline
+- Alur kerja dan proses analisis project
+
+# Raw Data
+- Data mentah yang digunakan dalam project.
+
+-------------------------------------------------------------------------
 Project ini dikerjakan untuk memenuhi UAS mata kuliah Data Wrangling  
 Program Studi Sains Data – Universitas Negeri Surabaya  
 Kelompok 18
